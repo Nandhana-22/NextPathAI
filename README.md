@@ -1,2 +1,34 @@
-# NextPathAI
-The AI Skill Intelligence Platform is an AI-powered student career analytics system built using ShaktiDB, FastAPI, React, and Python. The platform allows students to upload their resumes, from which AI automatically extracts skills, projects, certifications, and technical competencies.
+\# NextPathAI
+
+
+
+AI-Powered Skill Intelligence and Career Analytics Platform
+
+
+
+\## Features
+
+\-Resume Skill Extraction
+
+\-Skill Gap Analysis
+
+\-Learning Roadmap Generation
+
+\-Career Recommendation Engine
+
+\-AI Resume Analyzer
+
+\-Dashboard
+
+
+
+\## Tech Stack
+
+\- Frontend: React
+
+\- Backend: FastAPI
+
+\- Database: ShaktiDB
+
+\- AI/ML: Python, Transformers, Scikit-learn
+
